@@ -7,5 +7,33 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="column_style">
+        <item name="android:padding">12dp</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">144dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#E5F2FD</item>
 
+    </style>
+
+    <style name="team_name_style">
+        <item name="android:padding">6dp</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="team_score_style">
+        <item name="android:padding">6dp</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:background">#E5F2FD</item>
+    </style>
 </resources>
