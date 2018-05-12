@@ -8,9 +8,9 @@
     <string name="_0">0</string>
     <string name="_0a">0</string>
     <string name="app_title">AXzAPP</string>
-    <string name="one_point_a">1 Point</string>
-    <string name="three_points_a">3 points</string>
-    <string name="five_points_a">5 points</string>
+    <string name="one_point">1 Point</string>
+    <string name="three_points">3 points</string>
+    <string name="five_points">5 points</string>
     <string name="clutch">clutch</string>
 
 </resources>

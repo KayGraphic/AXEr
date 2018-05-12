@@ -27,13 +27,74 @@
     </style>
 
     <style name="team_score_style">
+
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:textColor">@color/lightblue</item>
+        <item name="android:background">#ffad33</item>
+        <item name="android:layout_marginBottom">12dp</item>
+    </style>
+
+    <style name="score_1_point_style">
         <item name="android:padding">6dp</item>
         <item name="android:orientation">vertical</item>
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:textAlignment">center</item>
         <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/lightblue</item>
         <item name="android:textSize">20sp</item>
-        <item name="android:background">#E5F2FD</item>
+        <item name="android:background">@color/red</item>
+        <item name="android:layout_marginBottom">12dp</item>
+    </style>
+
+    <style name="score_3_points_style">
+        <item name="android:padding">6dp</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/lightblue</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:background">@color/blue</item>
+        <item name="android:layout_marginBottom">12dp</item>
+    </style>
+
+    <style name="score_5_points_style">
+        <item name="android:padding">6dp</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/lightblue</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:background">@color/grey</item>
+        <item name="android:layout_marginBottom">12dp</item>
+    </style>
+
+    <style name="score_clutch_style">
+        <item name="android:padding">6dp</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/lightblue</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:background">@color/green</item>
+        <item name="android:layout_marginBottom">12dp</item>
+    </style>
+    <style name="column_for_ruler_style">
+        <item name="android:layout_width">1dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/lighterblue</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_margin">12dp</item>
     </style>
 </resources>
