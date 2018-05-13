@@ -7,6 +7,7 @@ import android.widget.TextView;
 
 import com.example.android.axer.R;
 
+
 public class MainActivity extends AppCompatActivity {
 
     // Tracks the score for Team A
@@ -27,12 +28,13 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+
     /**
      * Displays score for Team A.
      */
-    public void displayForTeamA(int score) {
-        TextView scoreView = (TextView) findViewById(R.id.team_a_score);
-        scoreView.setText(String.valueOf(score));
+    public void displayForTeamA(int scorea) {
+        TextView scoreView = findViewById(R.id.team_a_score);
+        scoreView.setText(String.valueOf(scorea));
     }
 
     public void buttonClutcha(View view) {
@@ -60,9 +62,9 @@ public class MainActivity extends AppCompatActivity {
     /**
      * Displays score for Team B.
      */
-    public void displayForTeamB(int score) {
-        TextView scoreView = (TextView) findViewById(R.id.team_b_score);
-        scoreView.setText(String.valueOf(score));
+    public void displayForTeamB(int scoreb) {
+        TextView scoreView = findViewById(R.id.team_b_score);
+        scoreView.setText(String.valueOf(scoreb));
     }
 
     public void buttonClutchb(View view) {

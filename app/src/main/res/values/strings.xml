@@ -5,12 +5,13 @@
     <string name="team_b">Team B</string>
     <string name="read_the_rules_at">Read the Rules at:</string>
     <string name="team_a">Team A</string>
-    <string name="_0">0</string>
     <string name="_0a">0</string>
     <string name="app_title">AXzAPP</string>
     <string name="one_point">1 Point</string>
     <string name="three_points">3 points</string>
     <string name="five_points">5 points</string>
     <string name="clutch">clutch</string>
-
+    <string name="new_round">New Round</string>
+    <string name="bullseye_content_description">Concentric circles, i.e. circles that share the same center or axis. The large, outer ring is white, while the incrementally smaller circles are red, blue and black </string>
+    <string name="crossed_axes_content_description">Two axes, crossed at the handle with the blades facing out and in opposite directions.</string>
 </resources>

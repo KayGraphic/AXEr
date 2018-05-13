@@ -21,7 +21,7 @@
         <item name="android:orientation">vertical</item>
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
-        <item name="android:textAlignment">center</item>
+
         <item name="android:textAllCaps">true</item>
         <item name="android:textSize">20sp</item>
     </style>
@@ -31,7 +31,7 @@
         <item name="android:orientation">vertical</item>
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
-        <item name="android:textAlignment">center</item>
+        <item name="android:gravity">center</item>
         <item name="android:textAllCaps">true</item>
         <item name="android:textSize">40sp</item>
         <item name="android:textColor">@color/lightblue</item>
@@ -44,7 +44,7 @@
         <item name="android:orientation">vertical</item>
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
-        <item name="android:textAlignment">center</item>
+
         <item name="android:textAllCaps">true</item>
         <item name="android:textColor">@color/lightblue</item>
         <item name="android:textSize">20sp</item>
@@ -57,7 +57,7 @@
         <item name="android:orientation">vertical</item>
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
-        <item name="android:textAlignment">center</item>
+
         <item name="android:textAllCaps">true</item>
         <item name="android:textColor">@color/lightblue</item>
         <item name="android:textSize">20sp</item>
@@ -70,7 +70,7 @@
         <item name="android:orientation">vertical</item>
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
-        <item name="android:textAlignment">center</item>
+
         <item name="android:textAllCaps">true</item>
         <item name="android:textColor">@color/lightblue</item>
         <item name="android:textSize">20sp</item>
@@ -83,7 +83,7 @@
         <item name="android:orientation">vertical</item>
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
-        <item name="android:textAlignment">center</item>
+
         <item name="android:textAllCaps">true</item>
         <item name="android:textColor">@color/lightblue</item>
         <item name="android:textSize">20sp</item>
